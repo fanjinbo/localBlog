@@ -416,7 +416,7 @@ footer:
     pv_format: "总访问量 {} 次"
     uv_format: "总访客数 {} 人"
 
-  # 国内大陆服务器的备案信息
+  # 国内大陆服务器o的备案信息
   # For Chinese mainland website policy, other areas keep disable
   beian:
     enable: true
